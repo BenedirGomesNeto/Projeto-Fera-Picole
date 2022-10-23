@@ -7,7 +7,7 @@
 
 Criando projeto responsivo. Layout disponível pela figma.
 
-[🔗Clique aqui para acessar o Projeto]
+[🔗Clique aqui para acessar o Projeto](https://benedirgomesneto.github.io/Projeto-Fera-Picole/)
 
 [🔗Clique aqui para acessar o figma Mobile First](https://www.figma.com/file/OVW2hP6NWXyLOVW5fnTgZI/Stage-03---Mobile-First-(Copy)?node-id=12%3A137)
 
